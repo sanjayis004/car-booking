@@ -1,0 +1,12 @@
+{
+	"port":8010,
+	"db_config":{
+		"host":"localhost",
+		"user":"root",
+		"password":"root",
+		"database":"refyne_db"
+	},
+	"secret":"qwertyuiop123456789"
+	
+
+}
